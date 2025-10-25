@@ -1,4 +1,4 @@
-import raylib_python_cffi as rl
+import pyray as rl
 
 def main():
     window = rl.Vector2(900, 600)
